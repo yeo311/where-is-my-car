@@ -1,0 +1,10 @@
+<svg width="200" height="120" viewBox="0 0 200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M170 55C170 55 165 35 160 30C155 25 140 25 140 25H60C60 25 45 25 40 30C35 35 30 55 30 55C20 55 15 60 15 70V85C15 90 20 95 25 95H35C35 85 45 75 55 75C65 75 75 85 75 95H125C125 85 135 75 145 75C155 75 165 85 165 95H175C180 95 185 90 185 85V70C185 60 180 55 170 55Z" fill="currentColor" fill-opacity="0.15"/>
+    <path d="M55 95C55 102.732 48.7322 109 41 109C33.2678 109 27 102.732 27 95C27 87.2678 33.2678 81 41 81C48.7322 81 55 87.2678 55 95Z" fill="currentColor"/>
+    <path d="M173 95C173 102.732 166.732 109 159 109C151.268 109 145 102.732 145 95C145 87.2678 151.268 81 159 81C166.732 81 173 87.2678 173 95Z" fill="currentColor"/>
+    <path d="M170 55C170 55 165 35 160 30C155 25 140 25 140 25H60C60 25 45 25 40 30C35 35 30 55 30 55C20 55 15 60 15 70V85C15 90 20 95 25 95H35M170 55C180 55 185 60 185 70V85C185 90 180 95 175 95H165M170 55H30" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M75 95C75 85 65 75 55 75C45 75 35 85 35 95" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M165 95C165 85 155 75 145 75C135 75 125 85 125 95" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60 55H45" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M155 55H140" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> 
